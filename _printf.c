@@ -7,7 +7,10 @@
  * determine which printing function to call depending on the conversion
  * specifiers contained into fmt
  * Return: length of the formatted output string
+<<<<<<< HEAD
  * printf file
+=======
+>>>>>>> 9e4a82aae0e6fc736f80ab0a9690a0c6e0994785
  */
 int _printf(const char *format, ...)
 {
