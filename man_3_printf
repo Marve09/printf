@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 .TH man 3 "18 April 2022 "ALX SOFTWARE ENGINEERING "_PRINTF"
-=======
-.TH man 3 "19 April 2022 "ALX SOFTWARE ENGINEERING "_PRINTF"
->>>>>>> 787efcc10128513ad51b421f32462752bf4ad205
 .SH NAME
 .B _printf
 - formatted output conversion
@@ -103,8 +99,4 @@ That way, _putchar only needs to call write one time, passing to it the whole bu
 .SH BUGS
 _printf does not take care of length and precision modifiers yet. For example, _printf(\(dq%hx\(dq) will not produce the same output as the call to the standard library printf.
 .SH AUTHORS
-<<<<<<< HEAD
-Adeboyejo isaac
-=======
-Marvelous Ohaeri,
->>>>>>> 787efcc10128513ad51b421f32462752bf4ad205
+Marvelous Ohaeri, Adeboyejo isaac
